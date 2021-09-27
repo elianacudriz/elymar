@@ -4,29 +4,29 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Colageno"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Colageno Hidrolizado"
+  type: "Extractos magicos"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  title: "Colageno Hidrolizado"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "2021"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/redpineapple/devices.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/redpineapple/desktop.png"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/redpineapple/mobile.png"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>.El colágeno es una proteína que se encuentra en el organismo humano y es la protagonista de casi un tercio del contenido proteico total del cuerpo. Esta proteína se dispersa alrededor de los músculos, tendones, articulaciones, piel y sistema digestivo.</p>
